@@ -1,0 +1,24 @@
+{
+   "Hotels": [
+      {
+         "name": "Hotel demo 1",
+         "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+         "imgPath": "images/hills.jpg"
+      },
+      {
+         "name": "Another Hotel",
+         "desc":"Phasellus porttitor luctus mauris eget malesuada.",
+         "imgPath": "images/lilies.jpg"
+      },
+      {
+         "name": "Example Hotel",
+         "desc":"Suspendisse et mi augue. Proin eu massa id orci luctus rutrum id vitae diam.",
+         "imgPath": "images/sunset.jpg"
+      },
+      {
+         "name": "Last Hotel",
+         "desc":"Vivamus lectus libero, bibendum id sagittis ac, commodo in magna. ",
+         "imgPath": "images/winter.jpg"
+      }
+  ]
+}
